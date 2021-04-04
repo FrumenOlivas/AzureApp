@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/87fd7930-17cb-40e1-a551-b7b4d5941b2f/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/olivas",
+  "appService.deploySubpath": "."
+}
